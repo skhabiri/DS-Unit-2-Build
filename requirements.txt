@@ -1,0 +1,2 @@
+# The requirements.txt file lists the dependencies that are needed to be installed to run your project
+# you can add the list of your projects dependencies via `pip freeze > requirements.txt`
