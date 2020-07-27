@@ -1,0 +1,12 @@
+This is the folder where you should keep your data typically you will
+have at least 2 separate sub-folders inside here.
+
+/raw
+    The original data as it was when it came from its source
+
+/processed
+    This folder is for your wrangled data set.
+
+.gitkeep files are just a convention to allow for the pushing of
+empty directories to the VCS repository. Feel free to delete this
+file once you moved your data in here.

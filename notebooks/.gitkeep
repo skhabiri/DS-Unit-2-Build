@@ -1,0 +1,11 @@
+The notebooks directory contains your polished notebooks, you should
+avoid keeping any messy or scratch code - These should tell the story
+of your model.
+
+It is common to have more than 1 notebook, for instance:
+
+01-btr-Model-EDA.ipynb
+
+02-btr-Data-Munging.ipynb
+
+03-btr-My-Model.ipynb
